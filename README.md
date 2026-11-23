@@ -4,7 +4,7 @@
 
 ![Три игровых окна: карта маршрута с буями, снаряжение с фонарём и карточка найденного ската.](night-dive.png)
 
-[Открыть макет в Figma](https://www.figma.com/design/0zTtHatrP5nCdKeuzLlirf/Pelagic?node-id=2-13) · [Посмотреть графику по слоям в SVG](art/) · [Открыть превью в полном размере](night-dive.png)
+[Пройти погружение в браузере](https://german4341374.github.io/pelagic-game-ui/) · [Открыть макет в Figma](https://www.figma.com/design/0zTtHatrP5nCdKeuzLlirf/Pelagic?node-id=2-13) · [Скачать SVG](art/) · [Увеличить превью](night-dive.png)
 
 ### Что здесь можно посмотреть
 
